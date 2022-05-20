@@ -1,4 +1,4 @@
-class Сalculator():
+class Сalc():
 
     def add(self, x, y):
         return x + y
